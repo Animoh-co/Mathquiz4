@@ -1,0 +1,84 @@
+body
+{
+	background-image: url("Loginbg.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+	.playinput
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+		
+	}
+
+    h1{
+        border-radius: 10px;
+	width: 200px;
+	padding: 5px;
+    }
+
+    button{
+        border-radius: 10px;
+        width: 150px;
+        padding:5px;
+    }
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin: 20px;
+}
+#number1 , #number2
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+
+#gamepg{
+background-image: url(Mathbg.jpg);
+background-position:center;
+background-size:cover;
+}
+
+#heading{
+	border-radius: 10px;
+	padding :5px;
+	width: 1050px;
+}
+
+
+#player1_names{
+	color:blue;
+	size: 10000px;
+}
+
+#player2_names{
+	color:blue;
+	size: 1000px;
+}
+
+#player2_scores{
+	color: crimson;
+	size: 1000px;
+}
+
+#player1_scores{
+	color: crimson;
+	size:10000px;
+}
